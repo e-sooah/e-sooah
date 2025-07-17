@@ -1,8 +1,13 @@
-## Hi there 👋
+# 🌍 salee-world
 
-https://salee-world.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=flat-square)](https://salee-world.vercel.app/)
+[![Tech Stack](https://img.shields.io/badge/Svelte-5-orange?style=flat-square&logo=svelte)](https://svelte.dev/)
+[![Three.js](https://img.shields.io/badge/Three.js-3D-green?style=flat-square&logo=three.js)](https://threejs.org/)
+[![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?style=flat-square&logo=greensock)](https://greensock.com/gsap/)
 
-= svelte5, threejs, gsap
+> Welcome to **salee-world** — a visually rich, interactive 3D world built with [Svelte 5](https://svelte.dev/blog/svelte-5), [Three.js](https://threejs.org/), and [GSAP](https://greensock.com/gsap/).
+
+🔗 **[Live Site →](https://salee-world.vercel.app/)**  
 
 <!--
 **e-sooah/e-sooah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

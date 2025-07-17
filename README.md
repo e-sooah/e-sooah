@@ -2,6 +2,8 @@
 
 https://salee-world.vercel.app/
 
+= svelte5, threejs, gsap
+
 <!--
 **e-sooah/e-sooah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
